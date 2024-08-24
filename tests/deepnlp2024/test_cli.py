@@ -17,6 +17,6 @@ def capture(command: List[str]) -> Tuple[bytes, bytes, int]:
 
 def test_cli() -> None:
     """Test cli module"""
-    command = ["coursetempi"]
+    command = ["deepnlp2024"]
     out, err, exitcode = capture(command)
     assert exitcode == 0

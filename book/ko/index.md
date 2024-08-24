@@ -8,32 +8,32 @@
 [![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
+
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-course-template
-
-[codecov-image]: https://codecov.io/gh/entelecheia/course-template-i18n/branch/main/graph/badge.svg?token=usYkLC6aBx
-[codecov-url]: https://codecov.io/gh/entelecheia/course-template-i18n
-[pypi-image]: https://img.shields.io/pypi/v/course-template-i18n
-[license-image]: https://img.shields.io/github/license/entelecheia/course-template-i18n
-[license-url]: https://github.com/entelecheia/course-template-i18n/blob/main/LICENSE
-[version-image]: https://img.shields.io/github/v/release/entelecheia/course-template-i18n?sort=semver
-[release-date-image]: https://img.shields.io/github/release-date/entelecheia/course-template-i18n
-[release-url]: https://github.com/entelecheia/course-template-i18n/releases
+[codecov-image]: https://codecov.io/gh/entelecheia/deepnlp-2024/branch/main/graph/badge.svg?token=OMNrbNOBEj
+[codecov-url]: https://codecov.io/gh/entelecheia/deepnlp-2024
+[pypi-image]: https://img.shields.io/pypi/v/deepnlp-2024
+[license-image]: https://img.shields.io/github/license/entelecheia/deepnlp-2024
+[license-url]: https://github.com/entelecheia/deepnlp-2024/blob/main/LICENSE
+[version-image]: https://img.shields.io/github/v/release/entelecheia/deepnlp-2024?sort=semver
+[release-date-image]: https://img.shields.io/github/release-date/entelecheia/deepnlp-2024
+[release-url]: https://github.com/entelecheia/deepnlp-2024/releases
 [jupyter-book-image]: https://jupyterbook.org/en/stable/_images/badge.svg
+[repo-url]: https://github.com/entelecheia/deepnlp-2024
+[pypi-url]: https://pypi.org/project/deepnlp-2024
+[docs-url]: https://deepnlp2024.jeju.ai
+[changelog]: https://github.com/entelecheia/deepnlp-2024/blob/main/CHANGELOG.md
+[contributing guidelines]: https://github.com/entelecheia/deepnlp-2024/blob/main/CONTRIBUTING.md
 
-[repo-url]: https://github.com/entelecheia/course-template-i18n
-[pypi-url]: https://pypi.org/project/course-template-i18n
-[docs-url]: https://entelecheia.github.io/course-template-i18n
-[changelog]: https://github.com/entelecheia/course-template-i18n/blob/main/CHANGELOG.md
-[contributing guidelines]: https://github.com/entelecheia/course-template-i18n/blob/main/CONTRIBUTING.md
 <!-- Links: -->
 
-Multilingual course creation template with interactive documentation support for international audiences
+이 강좌는 NVIDIA NeMo 프레임워크와 DGX H100 서버를 활용하여 최신 딥러닝 자연어처리 기술을 학습합니다. 대규모 언어 모델(LLM)의 학습, 최적화, 배포에 중점을 두며, 실제 애플리케이션 개발까지 다룹니다. 학생들은 팀 프로젝트를 통해 실무적인 LLM 개발 경험을 쌓게 됩니다.
 
-- Documentation: [https://entelecheia.github.io/course-template-i18n][docs-url]
-- GitHub: [https://github.com/entelecheia/course-template-i18n][repo-url]
-- PyPI: [https://pypi.org/project/course-template-i18n][pypi-url]
+## Table of Contents
 
-This project provides a comprehensive and flexible template for creating and managing multilingual online courses. It leverages GitHub for version control and Jupyter Book for interactive content delivery, enabling educators to easily develop, maintain, and share their educational materials across different languages and cultures.
+```{tableofcontents}
+
+```
 
 ## Changelog
 
@@ -46,8 +46,3 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [CC-BY-4.0 License][license-url].
-
-## Table of Contents
-
-```{tableofcontents}
-```

@@ -1,16 +1,16 @@
 [tool.poetry]
-name = "course-template-i18n"
-version = "0.4.0"
-description = "Multilingual course creation template with interactive documentation support for international audiences"
+name = "deepnlp-2024"
+version = "0.0.0"
+description = "Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "CC-BY-4.0"
-homepage = "https://entelecheia.github.io/course-template-i18n"
-repository = "https://github.com/entelecheia/course-template-i18n"
+homepage = "https://deepnlp2024.jeju.ai"
+repository = "https://github.com/entelecheia/deepnlp-2024"
 readme = "README.md"
-packages = [{ include = "coursetempi", from = "src" }]
+packages = [{ include = "deepnlp2024", from = "src" }]
 
 [tool.poetry.scripts]
-coursetempi = 'coursetempi.__cli__:main'
+deepnlp2024 = 'deepnlp2024.__cli__:main'
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"
@@ -100,8 +100,7 @@ tag_format = "v$version"
 [tool.semantic_release]
 branch = "main"
 version_toml = "pyproject.toml:tool.poetry.version"
-version_pattern = '.docker/docker.version:IMAGE_VERSION="{version}"'
-version_variable = "src/coursetempi/_version.py:__version__"
+version_variable = "src/deepnlp2024/_version.py:__version__"
 version_source = "tag"
 commit_version_number = true # required for version_source = "tag"
 commit_subject = "chore(release): :rocket: {version} [skip ci]"
