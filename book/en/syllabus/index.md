@@ -2,7 +2,7 @@
 
 This course focuses on advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server. It emphasizes the training, optimization, and deployment of Large Language Models (LLMs), including practical application development. Students will gain hands-on LLM development experience through team projects.
 
-## Learning Objectives:
+## Learning Objectives
 
 1. Master the use of NVIDIA NeMo framework and DGX H100 server.
 2. Understand and practice LLM architecture and training methods.
@@ -11,7 +11,7 @@ This course focuses on advanced deep learning techniques for natural language pr
 5. Develop the ability to implement RAG (Retrieval-Augmented Generation) systems.
 6. Cultivate skills to design and develop real-world LLM-based applications.
 
-## Course Outline:
+## Course Outline
 
 Week 1
 
@@ -118,29 +118,31 @@ Week 15
    - Evaluation method: LLM application development results, technical documentation, presentation, peer evaluation
    - Evaluation timing: Week 15
 
-## Textbooks and References:
+## Course Materials
 
+- Lecture Note: [https://deepnlp2024.halla.ai](https://deepnlp2024.halla.ai)
+- GitHub: [https://github.com/entelecheia/deepnlp-2024](https://github.com/entelecheia/intdeepnlp-2024)
 - Main textbook: NVIDIA NeMo official documentation and tutorials
 - Additional references: Latest papers on LLMs, NVIDIA technical blog posts, GitHub repositories
 
-## Prerequisites:
+## Prerequisites
 
 - Python programming (Intermediate level or above)
 - Basics of machine learning and deep learning
 - Introduction to natural language processing
 
-## Additional Notes:
+## Additional Notes
 
 - DGX H100 server account required, to be issued before the course
 - Team projects will be conducted in groups of 3-4 members
 - Course content may be partially modified to reflect the latest technology trends
 
-## Weekly Practice Assignment Guidelines:
+## Weekly Practice Assignment Guidelines
 
 - Weekly assignments due by Friday midnight
 - Code management and submission through GitHub recommended
 
-## Project Guidelines:
+## Project Guidelines
 
 - Midterm project: Fine-tuning and performance improvement of LLM for specific tasks
 - Final project: Developing LLM-based applications solving real-world problems
