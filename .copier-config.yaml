@@ -10,7 +10,7 @@ copyright_year: 2024
 documentation_url: https://deepnlp2024.jeju.ai
 email: entelecheia@hotmail.com
 favicon_path: https://assets.entelecheia.ai/favicon.png
-friendly_name: Course Template Internationalization 2024
+friendly_name: Advanced NLP and LLMs 2024
 giscus_data_category: General
 giscus_data_category_id: DIC_kwDOMnmcmM4Ch5PL
 giscus_data_repo_id: R_kgDOMnmcmA
@@ -30,10 +30,15 @@ package_scripts:
 poe_task_files:
 - .tasks.toml
 - .tasks-extra.toml
-project_description: This course focuses on advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server. It emphasizes the training, optimization, and deployment of Large Language Models (LLMs), including practical application development. Students will gain hands-on LLM development experience through team projects.
+project_description: This course focuses on advanced deep learning techniques for
+    natural language processing using the NVIDIA NeMo framework and DGX H100 server.
+    It emphasizes the training, optimization, and deployment of Large Language Models
+    (LLMs), including practical application development. Students will gain hands-on
+    LLM development experience through team projects.
 project_license: CC-BY-4.0
 project_name: deepnlp-2024
-project_short_description: Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server
+project_short_description: Advanced deep learning techniques for natural language
+    processing using the NVIDIA NeMo framework and DGX H100 server
 upload_to_release: true
 upload_to_repository: true
 use_launch_buttons: true

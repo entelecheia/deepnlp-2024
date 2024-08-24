@@ -1,0 +1,6 @@
+_open_link_: True
+name: "Advanced NLP and LLMs 2024"
+authors: "Young Joon Lee <entelecheia@hotmail.com>"
+description: "Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server"
+homepage: "https://deepnlp2024.jeju.ai"
+license: "CC-BY-4.0"

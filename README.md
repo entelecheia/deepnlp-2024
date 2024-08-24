@@ -1,4 +1,4 @@
-# Course Template Internationalization 2024
+# Advanced NLP and LLMs 2024
 
 [![pypi-image]][pypi-url]
 [![version-image]][release-url]
@@ -8,7 +8,7 @@
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
-[codecov-image]: https://codecov.io/gh/entelecheia/deepnlp-2024/branch/main/graph/badge.svg?token=usYkLC6aBx
+[codecov-image]: https://codecov.io/gh/entelecheia/deepnlp-2024/branch/main/graph/badge.svg?token=OMNrbNOBEj
 [codecov-url]: https://codecov.io/gh/entelecheia/deepnlp-2024
 [pypi-image]: https://img.shields.io/pypi/v/deepnlp-2024
 [license-image]: https://img.shields.io/github/license/entelecheia/deepnlp-2024
@@ -25,13 +25,13 @@
 [contributing guidelines]: https://github.com/entelecheia/deepnlp-2024/blob/main/CONTRIBUTING.md
 <!-- Links: -->
 
-Multilingual course creation template with interactive documentation support for international audiences
+Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server
 
 - Documentation: [https://deepnlp2024.jeju.ai][docs-url]
 - GitHub: [https://github.com/entelecheia/deepnlp-2024][repo-url]
 - PyPI: [https://pypi.org/project/deepnlp-2024][pypi-url]
 
-This project provides a comprehensive and flexible template for creating and managing multilingual online courses. It leverages GitHub for version control and Jupyter Book for interactive content delivery, enabling educators to easily develop, maintain, and share their educational materials across different languages and cultures.
+This course focuses on advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server. It emphasizes the training, optimization, and deployment of Large Language Models (LLMs), including practical application development. Students will gain hands-on LLM development experience through team projects.
 
 ## Changelog
 

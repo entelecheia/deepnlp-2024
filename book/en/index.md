@@ -8,9 +8,9 @@
 [![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
-[hyperfast python template]: https://github.com/entelecheia/hyperfast-course-template
 
-[codecov-image]: https://codecov.io/gh/entelecheia/deepnlp-2024/branch/main/graph/badge.svg?token=usYkLC6aBx
+[hyperfast python template]: https://github.com/entelecheia/hyperfast-course-template
+[codecov-image]: https://codecov.io/gh/entelecheia/deepnlp-2024/branch/main/graph/badge.svg?token=OMNrbNOBEj
 [codecov-url]: https://codecov.io/gh/entelecheia/deepnlp-2024
 [pypi-image]: https://img.shields.io/pypi/v/deepnlp-2024
 [license-image]: https://img.shields.io/github/license/entelecheia/deepnlp-2024
@@ -19,21 +19,21 @@
 [release-date-image]: https://img.shields.io/github/release-date/entelecheia/deepnlp-2024
 [release-url]: https://github.com/entelecheia/deepnlp-2024/releases
 [jupyter-book-image]: https://jupyterbook.org/en/stable/_images/badge.svg
-
 [repo-url]: https://github.com/entelecheia/deepnlp-2024
 [pypi-url]: https://pypi.org/project/deepnlp-2024
 [docs-url]: https://deepnlp2024.jeju.ai
 [changelog]: https://github.com/entelecheia/deepnlp-2024/blob/main/CHANGELOG.md
 [contributing guidelines]: https://github.com/entelecheia/deepnlp-2024/blob/main/CONTRIBUTING.md
+
 <!-- Links: -->
 
-Multilingual course creation template with interactive documentation support for international audiences
+This course focuses on advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server. It emphasizes the training, optimization, and deployment of Large Language Models (LLMs), including practical application development. Students will gain hands-on LLM development experience through team projects.
 
-- Documentation: [https://deepnlp2024.jeju.ai][docs-url]
-- GitHub: [https://github.com/entelecheia/deepnlp-2024][repo-url]
-- PyPI: [https://pypi.org/project/deepnlp-2024][pypi-url]
+## Table of Contents
 
-This project provides a comprehensive and flexible template for creating and managing multilingual online courses. It leverages GitHub for version control and Jupyter Book for interactive content delivery, enabling educators to easily develop, maintain, and share their educational materials across different languages and cultures.
+```{tableofcontents}
+
+```
 
 ## Changelog
 
@@ -46,8 +46,3 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [CC-BY-4.0 License][license-url].
-
-## Table of Contents
-
-```{tableofcontents}
-```

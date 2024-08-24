@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "deepnlp-2024"
-version = "0.4.0"
-description = "Multilingual course creation template with interactive documentation support for international audiences"
+version = "0.0.0"
+description = "Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "CC-BY-4.0"
 homepage = "https://deepnlp2024.jeju.ai"
@@ -100,7 +100,6 @@ tag_format = "v$version"
 [tool.semantic_release]
 branch = "main"
 version_toml = "pyproject.toml:tool.poetry.version"
-version_pattern = '.docker/docker.version:IMAGE_VERSION="{version}"'
 version_variable = "src/deepnlp2024/_version.py:__version__"
 version_source = "tag"
 commit_version_number = true # required for version_source = "tag"
