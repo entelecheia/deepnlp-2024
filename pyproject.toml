@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "deepnlp-2024"
-version = "0.0.0"
+version = "0.1.0"
 description = "Advanced deep learning techniques for natural language processing using the NVIDIA NeMo framework and DGX H100 server"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "CC-BY-4.0"
