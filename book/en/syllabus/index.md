@@ -103,7 +103,7 @@ Week 15
 - Key Learning Content: Team project result presentations, review of LLM development pipeline
 - Note: Team project presentations, peer evaluation, comprehensive discussion
 
-## Evaluation:
+## Evaluation
 
 1. Attendance and Participation (10%)
    - Evaluation method: Weekly attendance check and in-class participation
